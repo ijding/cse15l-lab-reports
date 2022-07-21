@@ -16,3 +16,11 @@ is this a link does this do linke stuff?
 [link]        (https://www.google.ca/)
 
 [link]klsdjfklsjdf(https://www.google.ca/)
+
+[link](a.com)
+
+[link](a .com)
+
+[link](a-()-a.com/mine-().html)
+
+[link](not-dot)
